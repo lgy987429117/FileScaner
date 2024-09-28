@@ -2,5 +2,7 @@ Filesssss_Releases版本使用的是纯Python打造的，最后使用的是Pyins
 
 Tips:1.右下角的Language框显示的HTML 100% 是假的，只是目录中的index.html帮助页面是html语言
 
+特性：键入文件夹路径后敲一次回车，会筛选出所有文件
+
 教程：1.  http://ligy.3vkj.club/index.html
       2. https://github.com/lgy987429117/filesssss/releases
